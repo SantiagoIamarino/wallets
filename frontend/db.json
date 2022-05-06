@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "json-server",
+      "wallets": []
+    },
+    {
+      "id": 2,
+      "username": "siamarino",
+      "wallets": [
+        {
+          "address": "0x0521283DBE7E4c83Ec0c6F84C9F686D33729ea0C",
+          "isFavorite": false
+        }
+      ]
+    }
+  ]
+}
